@@ -80,6 +80,9 @@ function numberToString(n){
  * @return {number} squared
  */
 
+ function square(x){
+     return x*x;
+ }
 
 /**
  * Performs a mathematical operation on two numbers.
