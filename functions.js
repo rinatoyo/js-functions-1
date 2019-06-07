@@ -1,8 +1,13 @@
 /**
- * Converts a number a string.
+ * Converts a number to a string.
  * @param {number} n
  * @return {string} the number as a string
  */
+
+function numberToString(n){
+    var str = n.toString();
+    return str;
+}
 
 
 /**
