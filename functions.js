@@ -70,6 +70,9 @@ function numberToString(n){
  * @return {number} the quotient
  */
 
+ function divide(x,y){
+     return x/y;
+ }
 
 /**
  * Multiplies a number by itself.
